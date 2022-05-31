@@ -8,7 +8,7 @@
 	1) Add several widgets
 	2) Change size some widgets
   Environment: 
-    1) Redmi Note 7 MIUI 12.5.1.0 android 10 QKQ1.190910.002
+        1) Redmi Note 7 MIUI 12.5.1.0 android 10 QKQ1.190910.002
 	2) Honor 20 pro (YAL-L41), Android 10
   ExpectedResult: Widgets have a dotted line on all 4 sides
   ActualResult: Widgets don't have dotted lines
